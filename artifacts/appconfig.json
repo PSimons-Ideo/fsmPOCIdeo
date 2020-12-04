@@ -1,7 +1,7 @@
 {
-  "name": "fsmsample",
+  "name": "fsmpoc",
   "provider": "Ideo Demo B.V.",
-  "description": "FSM Extension Sample",
+  "description": "FSM Extension POC",
   "version": "0.0.0.1",
   "icon": "",
   "useShellSDK": true,
