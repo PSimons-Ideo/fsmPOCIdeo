@@ -5,7 +5,7 @@ replicaCount: 1
 
 image:
   registry: psimonsideo
-  name: fsmdemo
+  name: pocfsm
   pullPolicy: Always
 
 imagePullSecrets: []

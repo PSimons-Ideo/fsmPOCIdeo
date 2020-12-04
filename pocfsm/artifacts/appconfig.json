@@ -1,8 +1,8 @@
 {
-  "name": "fsmdemo",
-  "provider": "Ideo Demo B.V.",
-  "description": "FSM Extension POC",
-  "version": "0.0.0.1",
+  "name": "pocfsm",
+  "provider": "Ideo BV",
+  "description": "POC FSM",
+  "version": "0.0.1",
   "icon": "",
   "useShellSDK": true,
   "dockerRegistry": "psimonsideo",
